@@ -1,0 +1,3 @@
+DDME2_hyp.dat         # Filename
+0.8              # Dark matter particle mass
+
